@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GoIT-proiect-individual/static/css/main.7e19dee4.css",
+    "main.js": "/GoIT-proiect-individual/static/js/main.7c91c9e5.js",
+    "static/media/Strawberry.svg": "/GoIT-proiect-individual/static/media/Strawberry.c8efb2a8e88bec2e50066feb4d22eb8f.svg",
+    "static/media/banana.svg": "/GoIT-proiect-individual/static/media/banana.0816bb0e94833ef957ca54f76c52fe43.svg",
+    "static/media/leaves.svg": "/GoIT-proiect-individual/static/media/leaves.749c7d21a99dadc9fdf0f8ffcf215489.svg",
+    "static/media/logo.svg": "/GoIT-proiect-individual/static/media/logo.75717a2607c7b1d65a94987cf8e8ce9b.svg",
+    "index.html": "/GoIT-proiect-individual/index.html",
+    "static/media/calendar 1.svg": "/GoIT-proiect-individual/static/media/calendar 1.614832b0412526fb07a7717bd074ec01.svg",
+    "static/media/VectorHomePage.svg": "/GoIT-proiect-individual/static/media/VectorHomePage.f6f9bff102d5d7d7a000c01252cf717c.svg",
+    "static/media/backButtonModal.svg": "/GoIT-proiect-individual/static/media/backButtonModal.f8ecaa704b5ed1cdfb242f2bd24b5a99.svg",
+    "main.7e19dee4.css.map": "/GoIT-proiect-individual/static/css/main.7e19dee4.css.map",
+    "main.7c91c9e5.js.map": "/GoIT-proiect-individual/static/js/main.7c91c9e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e19dee4.css",
+    "static/js/main.7c91c9e5.js"
+  ]
+}
